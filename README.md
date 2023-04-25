@@ -5,12 +5,12 @@ Arch linux rice by Isc.
 ![Captura de tela_2023-04-25_004-41](https://user-images.githubusercontent.com/130581941/234273619-ff23c43b-2dd5-4ed1-9ba0-020b929c100c.png)
 
 ## Details
-**• OS:** Arch Linux 
+🌙**• OS:** Arch Linux 
 
-**• WM:** Bspwm 
+🌙**• WM:** Bspwm 
 
-**• Term:** Alacritty 
+🌙**• Term:** Alacritty 
 
-**• Shell:** zsh 
+🌙**• Shell:** zsh 
 
-**• File Manager:** ranger
+🌙**• File Manager:** ranger
