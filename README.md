@@ -15,3 +15,6 @@
 **• Shell:** zsh 
 
 **• File Manager:** ranger
+
+## Installation
+```sh
