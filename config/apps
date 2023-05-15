@@ -1,0 +1,19 @@
+## Web browser
+
+sudo pacman -S firefox-developer-edition
+
+## File Manager
+
+sudo pacman -S thunar
+
+## Coding
+
+sudo pacman -S code
+
+## Terminal
+
+sudo pacman -S alacritty
+
+## Text Editor
+
+sudo pacman -S neovim
