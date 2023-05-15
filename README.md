@@ -12,5 +12,5 @@
 
 **• Shell:** zsh 
 
-**• Music Player:** cmus
+**• Editor:** neovim
 
