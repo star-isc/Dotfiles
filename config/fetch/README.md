@@ -2,7 +2,7 @@
 A customizable fetch utility
 
 <p align="center">
-  <img src="preview.png">
+  ![preview](https://github.com/star-isc/Dotfiles/assets/130581941/0d4cbb48-dfc0-40b1-87dc-922bb0101f9d)
 </p>
 
 ## Install
