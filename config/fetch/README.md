@@ -1,9 +1,7 @@
 # Fetch
 A customizable fetch utility
 
-<p align="center">
-  ![preview](https://github.com/star-isc/Dotfiles/assets/130581941/0d4cbb48-dfc0-40b1-87dc-922bb0101f9d)
-</p>
+![preview(https://github.com/star-isc/Dotfiles/assets/130581941/0d4cbb48-dfc0-40b1-87dc-922bb0101f9d)
 
 ## Install
 ```
