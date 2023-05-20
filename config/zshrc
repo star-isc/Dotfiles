@@ -43,4 +43,4 @@ bindkey "^[[1;5C" forward-word
 bindkey "^[[1;5D" backward-word
 bindkey "5~" delete-word
 
-fetch -c fetch/conf/cat
+fetch -c fetch/conf/*fetch*
